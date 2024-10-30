@@ -36,7 +36,7 @@ form {
 
 .banner {
     width: 40%;
-    background-image: url(images/halie-west-unsplash.jpg);
+    background-image: url(images/keith-tanner-unsplash.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -128,7 +128,7 @@ label {
 }
 
 #logo {
-    width: 100px;
+    width: 150px;
     height: auto;
     
 }
